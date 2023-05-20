@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.xinboshin.mymod;
 
 public class ClientProxy extends CommonProxy {
 
