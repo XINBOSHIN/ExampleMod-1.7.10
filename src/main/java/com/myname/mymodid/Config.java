@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.xinboshin.mymod;
 
 import java.io.File;
 
